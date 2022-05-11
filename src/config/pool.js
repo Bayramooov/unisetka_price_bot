@@ -1,10 +1,9 @@
-
 module.exports = {
    connectionString: {
       host: "localhost",
-      user: "postgres",
+      user: "techiela_unisetka",
       port: 5432,
-      password: "1598753",
-      database: "unisetka"
+      password: "techiela_unisetka",
+      database: "techiela_unisetka"
    }
 }

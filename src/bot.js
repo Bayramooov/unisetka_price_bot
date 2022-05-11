@@ -243,7 +243,7 @@ async function calcColorful (per, sqr, amount, over){
    const j5 = sqr * i5
    const j6 = per * i6
 
-   const total = Math.round((j2+j3+j4+j5+j6)/5000)*5000 
+   const total = Math.round((j2+j3+j4+j5+j6)/5000)*5000
 
    return total
 }
